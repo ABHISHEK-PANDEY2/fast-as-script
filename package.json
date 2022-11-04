@@ -1,0 +1,11 @@
+{
+  "name": "fast-af-script",
+  "version": "1.0.0",
+  "description": "Script for the Fast-AF service",
+  "main": "init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhishek",
+  "license": "ISC"
+}
